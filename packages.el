@@ -53,3 +53,4 @@
 (package! modus-themes)
 (package! org-present)
 (package! beacon)
+(package! lsp-origami)
